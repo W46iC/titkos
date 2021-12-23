@@ -1,0 +1,14 @@
+body{
+
+background-image: url(image0-36.jpeg);
+background-repeat: repeat;
+background-size:fill;
+background-size: 100%;
+background-attachment:fixed;
+}
+
+h1{
+text-align: center;
+color: black;
+
+}
